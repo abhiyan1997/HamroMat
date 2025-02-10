@@ -1,4 +1,4 @@
-# Hamroमत #(http://hamromat.rf.gd/)
+# Hamroमत (http://hamromat.rf.gd/)
 
 **Hamroमत** is a simple and user-friendly online voting system designed to make the election process more accessible. The platform allows voters to cast their votes for mayoral candidates in a secure and efficient way. It tracks votes in real-time and ensures smooth election management.
 
